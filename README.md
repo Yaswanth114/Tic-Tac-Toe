@@ -42,8 +42,8 @@ The purpose of this project is to understand and implement the flutter concepts 
 #### Clone the repo
 
 ```sh
-$ git clone https://github.com/preetamvarun/Tic-Tac-Toe-App.git
-$ cd Tic-Tac-Toe-App/
+$ git clone https://github.com/Yaswanth114/Tic-Tac-Toe.git
+$ cd Tic-Tac-Toe/
 ```
 
 #### Install dependencies 
@@ -96,7 +96,7 @@ https://dribbble.com/shots/6187597-Tic-Tac-Toe
 <a name = "contactMe"> </a>
 ## 9. Contact Me 📞
 
-- Gmail: [preetamvarun](mailto:preetamvarun99@gmail.com) 📧
-- Github: [preetamvarun](https://github.com/preetamvarun) 
+- Gmail: [preetamvarun](mailto:yaswanthsompalli4@gmail.com) 📧
+- Github: [preetamvarun](https://github.com/yaswanth114) 
 
 
